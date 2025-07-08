@@ -1,0 +1,28 @@
+{
+  "12345678": {
+    "uid": "12345678",
+    "name": "Sample Player",
+    "level": 45,
+    "rank": "Heroic",
+    "region": "India",
+    "guild": "FF Guild",
+    "creation_date": "2020-05-10",
+    "last_login": "2025-07-01",
+    "character_used": "Alok",
+    "prime_level": 3,
+    "boya_pass": "Active",
+    "boya_pass_level": 67,
+    "is_active": true,
+    "guild_leader": {
+      "uid": "98765432",
+      "name": "GuildMaster",
+      "level": 58,
+      "creation_date": "2019-12-01",
+      "last_login": "2025-07-06",
+      "premium_level": 4,
+      "boya_pass": "Active",
+      "boya_pass_level": 80,
+      "is_active": true
+    }
+  }
+}
